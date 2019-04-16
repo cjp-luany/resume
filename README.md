@@ -48,12 +48,13 @@
 以下均为我熟练使用的技能
 
 - 安卓开发：Java
+- 服务器：Nginx
 - 前端开发：jQuery/AngularJS/Angular6/HTML5/CSS/javaScript/ajax
 - 后端开发：c#/mvc/.net Core/entity framework/asp.net
 - 数据库相关：SQL/Oracle
 - 版本管理、文档和自动化部署工具：Svn/Git
 - 第三方平台：微信公众平台/微信应用开发
-  ​    
+​    
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 ​      
